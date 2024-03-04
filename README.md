@@ -5,7 +5,10 @@
 To Create a annual sales report to help business understand their customers and grow more sales.
 
 #### Dashboard:
-![Dashboard](https://github.com/littlebear27/Vrinda-Store-Analysis/assets/134827274/3d344b2e-c44c-403a-8e9e-9ccff54a0e67)
+![Dashboard]()
+
+#### See video here:
+![Video](https://github.com/littlebear27/Vrinda-Store-Analysis/assets/134827274/3d344b2e-c44c-403a-8e9e-9ccff54a0e67)
 
 
 ### Conclusion: 
