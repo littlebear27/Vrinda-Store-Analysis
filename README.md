@@ -10,3 +10,7 @@ To Create a annual sales report to help business understand their customers and 
 
 ### Conclusion: 
 Target women customers of age group (20-49 yrs) living in Maharastra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon,Flipkart and Myntra.
+
+
+https://github.com/littlebear27/Vrinda-Store-Analysis/assets/134827274/3d344b2e-c44c-403a-8e9e-9ccff54a0e67
+
