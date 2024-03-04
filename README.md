@@ -4,7 +4,8 @@
 ### Objective: 
 To Create a annual sales report to help business understand their customers and grow more sales.
 
-#### ![Dashboard](https://github.com/littlebear27/Vrinda-Store-Analysis/blob/main/dashboard.PNG)
+#### Dashboard:
+![Dashboard](https://github.com/littlebear27/Vrinda-Store-Analysis/blob/main/dashboard.PNG)
 
 
 ### Conclusion: 
