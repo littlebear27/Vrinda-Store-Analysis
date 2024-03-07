@@ -3,7 +3,7 @@
 
 ### Objective: 
 To Create a annual sales report to help business understand their customers and grow more sales.
-### Skills: Excel, Pivot Tables and charts
+##### Skills: Excel, Pivot Tables and charts
 
 #### Dashboard:
 ![Dashboard](https://github.com/littlebear27/Vrinda-Store-Analysis/blob/main/dashboard.PNG)
